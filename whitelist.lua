@@ -1,6 +1,6 @@
 -- variables
 local player = game.Players.LocalPlayer
-local UserNames = {"TheCommunityCatt", "BD_DRE3", "AzureFoxes", "Sttryder", "209hm", "MissingOGs", "Joke_fire", "DoomDCursus", "VulturexCentury", "random_dudeguy787"}
+local UserNames = {"TheCommunityCatt", "BD_DRE3", "AzureFoxes", "Sttryder", "209hm", "MissingOGs", "Joke_fire", "NuubAtEverything", "DoomDCursus", "VulturexCentury", "random_dudeguy787"}
 
 -- check
 
